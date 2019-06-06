@@ -1,1 +1,3 @@
-# RTPEngine_7.4-AMRNB_WB
+# NGCP-RTPEngine 7.4 debian 9 installation packages
+
+I will write instructions later
